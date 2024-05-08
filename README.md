@@ -1,0 +1,1 @@
+- It's a simple example of Binary Search Tree.
